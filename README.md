@@ -21,7 +21,7 @@ Laravel Clickhouse - Eloquent model for ClickHouse.
 
 ## Get started
 ```sh
-$ composer require bavix/laravel-clickhouse
+$ composer require lexxkn/laravel-clickhouse
 ```
 
 Then add the code above into your config/app.php file providers section
